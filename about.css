@@ -1,0 +1,23 @@
+
+img{
+    width:400px;
+    height: 200px;
+}
+.srt{
+    display: flex;
+    
+}
+.brt{
+    margin-left: 120px;
+    
+}
+.bty{
+    color: white;
+    background-color: rgb(32, 88, 70);
+    font-size: 15px;
+    border-color:rgb(32, 88, 70);
+
+}
+h2{
+    font-weight: 700;
+}
